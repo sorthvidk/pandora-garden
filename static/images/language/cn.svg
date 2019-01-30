@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Language/cn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Language-slide-in" transform="translate(-29.000000, -297.000000)" fill-rule="nonzero">
+            <g id="Slide-in">
+                <g id="Countries" transform="translate(29.000000, 101.000000)">
+                    <g id="China" transform="translate(0.000000, 188.000000)">
+                        <g id="Language/cn" transform="translate(0.000000, 8.000000)">
+                            <g id="Group" transform="translate(-1.000000, 0.000000)">
+                                <polygon id="Shape" fill="#DE2910" points="0 0 45 0 45 29 0 29"></polygon>
+                                <g id="b-link" transform="translate(3.000000, 5.000000)" fill="#FFDE00">
+                                    <polygon id="b" points="1.80765 7.68326531 4.3875 0 6.96735 7.68326531 0.2106 2.92897959 8.5644 2.92897959"></polygon>
+                                </g>
+                                <g id="b-link" transform="translate(14.933013, 4.250000) rotate(-120.953924) translate(-14.933013, -4.250000) translate(13.433013, 2.250000)" fill="#FFDE00">
+                                    <polygon id="b" points="0.539678092 3.04517402 1.30356004 0.245881997 2.06744198 3.04517402 0.0667987939 1.31301542 2.54032128 1.31301542"></polygon>
+                                </g>
+                                <g id="b-link" transform="translate(18.500000, 7.500000) rotate(-98.105794) translate(-18.500000, -7.500000) translate(17.000000, 6.000000)" fill="#FFDE00">
+                                    <polygon id="b" points="0.536083165 2.24056523 1.3004759 -0.000365856982 2.06486864 2.24056523 0.0628876602 0.853911742 2.53806415 0.853911742"></polygon>
+                                </g>
+                                <g id="b-link" transform="translate(18.500000, 11.500000) rotate(-74.046738) translate(-18.500000, -11.500000) translate(17.000000, 10.000000)" fill="#FFDE00">
+                                    <polygon id="b" points="0.536101262 2.24198868 1.30090972 -0.000161174276 2.06571819 2.24198868 0.0626484039 0.854581034 2.53917104 0.854581034"></polygon>
+                                </g>
+                                <g id="b-link" transform="translate(14.888573, 14.814660) rotate(-51.331246) translate(-14.888573, -14.814660) translate(13.388573, 12.814660)" fill="#FFDE00">
+                                    <polygon id="b" points="0.537285716 3.05058363 1.30190965 0.248572525 2.06653359 3.05058363 0.0639470882 1.3167425 2.53987222 1.3167425"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

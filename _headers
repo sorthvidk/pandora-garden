@@ -1,3 +1,7 @@
-*.svg
+/*.svg
+	Access-Control-Allow-Origin: *
+	Content-type: 'image/svg+xml'
+	
+/static/*.svg
 	Access-Control-Allow-Origin: *
 	Content-type: 'image/svg+xml'

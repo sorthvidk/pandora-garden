@@ -1,8 +1,2 @@
 /*
 	Access-Control-Allow-Origin: *
-/css/*
-	 Cache-Control: "public, max-age=43200"	
-/images/*
-	 Cache-Control: "public, max-age=86400"	
-/video/*
-	 Cache-Control: "public, max-age=86400"	

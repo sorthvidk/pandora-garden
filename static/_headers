@@ -2,3 +2,5 @@
 	Access-Control-Allow-Origin: *
 /images/*
 	 Cache-Control: "public, max-age=43200"
+/video/*
+	 Cache-Control: "public, max-age=43200"
